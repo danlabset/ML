@@ -1,4 +1,4 @@
-# California Housing Price Prediction ML with XGBOOST , Linera Regression and  RandomForestRegressor 
+# California Housing Price Prediction ML with XGBOOST , Linear Regression and  RandomForestRegressor 
 
 ## Overview
 This repository contains a Python script for predicting housing prices in California using the California Housing dataset. The script utilizes the XGBoost regression model for training and evaluation.
